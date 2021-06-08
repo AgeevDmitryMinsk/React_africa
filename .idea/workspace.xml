@@ -4,6 +4,8 @@
     <list default="true" id="debaaf32-cd8f-4d4c-8c16-2fc85ca93659" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../AgeevDmitryMinsk.GitHub.io-master.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/script.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +42,7 @@
       <updated>1623089457537</updated>
       <workItem from="1623089459589" duration="46000" />
       <workItem from="1623089569233" duration="8145000" />
-      <workItem from="1623134881026" duration="347000" />
+      <workItem from="1623134881026" duration="965000" />
     </task>
     <servers />
   </component>

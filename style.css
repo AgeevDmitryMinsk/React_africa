@@ -43,9 +43,9 @@ h2 {
   text-align: center;
 }
 
-.animal:last-of-type {
-  margin-right: 0;
-}
+/*.animal:last-of-type {*/
+/*  margin-right: 44px;*/
+/*}*/
 
 .icon {
   font-size: 120px;
